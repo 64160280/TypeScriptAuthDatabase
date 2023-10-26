@@ -1,0 +1,2 @@
+# TypeScriptAuthDatabase
+Beginner study only
